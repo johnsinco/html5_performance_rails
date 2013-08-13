@@ -1,0 +1,3 @@
+[submodule "html5_performance"]
+	path = html5_performance
+	url = https://github.com/johnsinco/html5_performance

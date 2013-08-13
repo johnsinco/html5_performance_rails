@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Html5PerformanceRails::VERSION
   spec.authors       = ["johnsinco"]
   spec.email         = ["lead.j2ee.engineer@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{A rails engine gem to include the html5 performance javascript}
+  spec.summary       = %q{Simple gem wrapper around the html5_performance javascript for rails}
+  spec.homepage      = "https://github.com/johnsinco/html5_performance_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
