@@ -1,1 +1,0 @@
-console.log("html5_performance_rails gem js");
