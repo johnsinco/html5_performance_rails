@@ -1,1 +1,1 @@
-//= require ./performance.js
+//= require ../../../../html5_performance/html5_performance_stats.js
